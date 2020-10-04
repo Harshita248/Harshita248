@@ -1,15 +1,15 @@
 <hr>
-<h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Earth.gif" width="24px"> 
+<h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Earth.gif" width="24px"> 
 <br>
-<h1 align="center">I'm Harshita  <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Developer.gif" width="80px">
+<h1 align="center">I'm Harshita  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
 </h1>
 
 <p align="center">
   <em>
     This is Harshita Raj, a 3rd year undergraduate pursuing B.Tech from <a href="https://www.soa.ac.in/iter"> <b>Institute of Technical Education and Research</b>, Bhubaneswar</a>. <br>
     An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
-    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Rocket.gif" width="18px">and a
-    <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
+    <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
   </em>
 </p>
 
@@ -17,12 +17,12 @@
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
-- <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MERN stack_** 😉
-- <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
-- <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Harshita248/Harshita248/blob/master/Assets/powerup.gif" width="20vw" /> ...
-- <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻!
-- <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MERN stack_** 😉
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Harshita248/Harshita248/blob/main/Assets/powerup.gif" width="20vw" /> ...
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻!
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_Reading novels_** & wish to become an **Author** of my _Own Story_ ...🌐
 
 <br><br>
@@ -55,9 +55,6 @@ _Languages and Tools:_ <img align="right" alt="GIF" height="60px" src="https://m
 <!--
 <hr>
 <details align="center">
-<summary>
-  Projects I am currently working on
-</summary>
 
 <br />
 <br />
@@ -66,7 +63,7 @@ _Languages and Tools:_ <img align="right" alt="GIF" height="60px" src="https://m
 
 <hr>
 
-<img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
 <br>
 <br>
@@ -75,7 +72,7 @@ _Languages and Tools:_ <img align="right" alt="GIF" height="60px" src="https://m
 <br>
 <br>
 
-# Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
 
 [<img align="left" alt="HarshitaRaj_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://harshita248.github.io/PersonalPortfolio/)
 
